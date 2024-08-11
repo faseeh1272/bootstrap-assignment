@@ -1,0 +1,65 @@
+.bg-danger{
+    color: aqua;
+}
+.navbar{
+   
+    background-color: red;
+    width: 100%;
+}
+
+  .carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+  }
+.nav-item{
+    font-size: 30px;  
+}
+
+
+  .flex-card{
+    display: flex;
+    justify-content: space-between;
+   flex-wrap: wrap;
+   justify-content: center;
+   gap: 10px;
+  }
+  .logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+  }
+  
+  .num{
+    font-size: 15px;
+  }
+.main-2{
+    display: flex;
+    justify-content: space-between;
+    background-color: #007BFF;
+}
+.button{
+    background-color: #007BFF;
+    align-self: center;
+    margin-right: 20px;
+    padding: 5px;
+    color: yellow;
+}
+button{
+    color: yellow;
+    background-color: blueviolet;
+}
+  button:hover{
+    background-color: green;
+  }
+  .btn{
+    background-color: green;
+  }
+  img:hover{
+    background-color: blue;
+  }
+  .d-flex:hover{
+    background-color: blue;
+  }
+  .card-top-img:hover{
+    background-color: blue;
+  }
